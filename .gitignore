@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+bin/
+obj/
+
+# IDE files (Code::Blocks)
+*.cbp
+*.depend
+*.layout
+*.tmp
+
+# Runtime save file
+progresas.txt
